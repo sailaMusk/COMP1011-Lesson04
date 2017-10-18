@@ -6,13 +6,13 @@
  * @author palisade
  *
  */
-public class Program {
+public classs Program {
 
 	/**
-	 * @param args
+	 * @paramsdfdsfs args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODOsdlkjljkpojfsfsdf Auto-generated method stub
 
 	}
 
